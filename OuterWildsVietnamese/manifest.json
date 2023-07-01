@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "OuterWildsVietnamese.dll",
+  "author": "Luminescence",
+  "name": "OuterWildsVietnamese",
+  "uniqueName": "Luminescence.OuterWildsVietnamese",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.0",
+  "dependencies": []
+}
