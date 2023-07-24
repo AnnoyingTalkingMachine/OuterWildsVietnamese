@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3187006282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b66196f3a1abe7b2ff027cc836318b82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cea17de082da1dfd38b5ed053fc34ca1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/JosefinSans-Regular.ttf
+- Assets/Rowdies-Light.ttf
+- Assets/MerriweatherSans-SemiBold.ttf
+- Assets/ChakraPetch-Medium.ttf
+Dependencies: []
