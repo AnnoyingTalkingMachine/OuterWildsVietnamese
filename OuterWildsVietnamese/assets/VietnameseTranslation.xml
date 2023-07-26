@@ -58,19 +58,19 @@
 	</entry>
 	<entry>
 		<key>AVENS: Is the safest path the best one? Our goal is worth the risk.</key>
-		<value>AVENS: Nhưng liệu an toàn nhất đã là tốt nhất chưa? Sứ mệnh của chúng ta xứng đáng với rủi ro lớn hơn.</value>
+		<value>AVENS: Nhưng phương án an toàn nhất liệu đã là phương án tốt nhất hay chưa? Sứ mệnh của chúng ta xứng đáng với những rủi ro lớn hơn.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</key>
-		<value>CASSAVA: Có chắc là xứng đáng không? Chúng ta đã loay hoay một thời gian rất dài để đi tìm một thứ mà theo tôi (và một vài người khác) là không thể tìm được. Nếu công cuộc tìm kiếm &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; là vô ích, chúng ta nên chọn hướng đi ít nguy cơ rủi ro nhất.</value>
+		<value>CASSAVA: Có chắc là xứng đáng không? Chúng ta đã loay hoay một thời gian rất dài để đi tìm một thứ mà tôi (cùng nhiều người khác) tin rằng sẽ không thể tìm được rồi. Nếu chẳng may công cuộc tìm kiếm &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; là vô ích, chúng ta nên chọn hướng đi ít nguy cơ rủi ro nhất.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</key>
-		<value>SPIRE: Bỏ lại lõi và hộp dịch chuyển của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đồng nghĩa với việc mất mát tri thức quý giá.</value>
+		<value>SPIRE: Bỏ lại lõi và hộp dịch chuyển của &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đồng nghĩa với việc mất đi những tri thức quý giá.</value>
 	</entry>
 	<entry>
 		<key>MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.</key>
-		<value>MITIS: Đúng là như vậy; nhưng mà, đó là tri thức chúng ta chẳng còn nhiều hy vọng tìm lại được. Theo tôi, thà rằng chúng ta tự học lại còn hơn.</value>
+		<value>MITIS: Đúng là như vậy; nhưng mà, đó là tri thức chúng ta chẳng còn nhiều hy vọng tìm lại được. Theo tôi, thà rằng chúng ta tự nghiên cứu lại còn hơn.</value>
 	</entry>
 	<entry>
 		<key>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</key>
@@ -89,7 +89,7 @@
 			CASSAVA: If Poke and I are oil and water, Clary is our emulsifier. She certainly makes us a better team than would mixing through shaking (although sometimes I would like to shake Poke!).
 		</key>
 		<value>
-			CASSAVA: Nếu Poke và tôi như dầu với nước, thì Clary là chất nhũ hóa giữa chúng tôi. Nhờ có cô ấy gắn kết, chúng tôi mới hợp tác hài hòa thành một đội được, đỡ hơn nhiều so với việc phải trộn nước và dầu lại với nhau bằng cách lắc đều (mặc dù cũng nhiều lúc tôi muốn lắc cho Poke một trận!).
+			CASSAVA: Nếu Poke và tôi như dầu với nước, thì Clary là chất nhũ hóa giữa chúng tôi. Nhờ có cô ấy gắn kết, chúng tôi mới hợp tác hài hòa thành một đội được, dễ hơn nhiều so với việc phải trộn nước và dầu lại với nhau bằng cách lắc đều (mặc dù cũng nhiều lúc tôi muốn lắc cho Poke một trận!).
 		</value> 
 	</entry>
 	<entry>
@@ -97,7 +97,7 @@
 			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
 		</key>
 		<value>
-			CASSAVA: Đùa vậy thôi, có lẽ nỗi sợ rằng &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; sẽ mãi mãi chẳng tìm được trong tôi đã châm ngòi cho cuộc cãi vã với Poke. Nếu vậy thì tôi thiếu chín chắn quá.
+			CASSAVA: Đùa vậy thôi, có lẽ nỗi sợ rằng chúng ta sẽ mãi mãi chẳng tìm được &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; trong tôi đã châm ngòi cho cuộc cãi vã với Poke. Nếu vậy thì tôi thiếu chín chắn quá.
 		</value>
 	</entry>
 	<entry>
@@ -113,7 +113,7 @@
 			POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.
 		</key>
 		<value>
-			POKE: Cố chế tạo lại lõi dịch chuyển của thầy Annona mà không có thầy ấy khiến mình cảm thấy lạ quá. Nhiều lúc, mình vẫn thấy một cảm giác kỳ lạ khi chẳng còn là học trò (bé tí) của thầy nữa, và khi trách nhiệm quản lý &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; lại trao vào tay mình mà chẳng phải thầy nữa.
+			POKE: Cố chế tạo lại lõi dịch chuyển của thầy Annona mà không có thầy ấy khiến mình cảm thấy lạ quá. Nhiều lúc, mình vẫn thấy một cảm giác kỳ lạ khi chẳng còn được là học trò (bé nhỏ) của thầy nữa, và cả khi trách nhiệm quản lý &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; lại trao vào tay mình chứ chẳng phải thầy.
 		</value>
 	</entry>
 	<entry>
@@ -129,7 +129,7 @@
 			POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I &lt;i&gt;think&lt;/i&gt; I can do this (probably), but what if excitement has clouded my assessment of my own abilities?
 		</key>
 		<value>
-			POKE: Có được cơ hội để thử như vậy cũng thích đấy, nhưng mà... mình nào dám khiến mọi người thất vọng. Mình &lt;i&gt;nghĩ&lt;/i&gt; mình làm được (chắc thế), nhưng nhỡ sự phấn khích này đã khiến mình đánh giá sai khả năng của bản thân thì sao?
+			POKE: Được trao cơ hội như vậy cũng thích đấy, nhưng mà... mình không muốn làm mọi người thất vọng. Mình &lt;i&gt;nghĩ&lt;/i&gt; mình sẽ làm được (chắc thế), nhưng nhỡ sự phấn khích này đã khiến mình đánh giá sai khả năng của bản thân thì sao?
 		</value>
 	</entry>
 	<entry>
@@ -137,7 +137,7 @@
 			POKE: Was I wrong in volunteering to build it...? I was born in this star system, and never saw Annona’s warp core with my own three eyes. I only know what he taught me. What if I’ve bitten off a larger portion than I can consume?
 		</key>
 		<value>
-			POKE: Mình có sai lầm không khi nhận việc này nhỉ? Mình được sinh ra ở hệ sao này, và chưa từng được nhìn thấy lõi dịch chuyển của thầy Annona bằng ba con mắt này. Mình chỉ biết những gì thầy đã dạy. Nhỡ mình nhận việc này mà lại làm không xong thì sao?
+			POKE: Mình có sai lầm không khi nhận việc này nhỉ? Mình được sinh ra ở hệ sao này, và chưa từng được tận mắt nhìn thấy lõi dịch chuyển của thầy Annona. Mình chỉ biết những gì thầy đã dạy. Nhỡ mình nhận việc mà lại làm không xong thì sao?
 		</value>
 	</entry>
 	<entry>
@@ -145,7 +145,7 @@
 			POKE: Still, all I can give is my best. And as Annona would say, should my best prove insufficient, then we will find another way to achieve what’s needed. I have Clary and Root in the forge, and I have my clan. I am not alone!
 		</key>
 		<value>
-			POKE: Dù sao, mình vẫn phải cố gắng hết sức. Thầy Annona cũng nói, nếu có cố hết sức mà vẫn chưa đủ, thì chúng ta sẽ tìm cách khác để đạt tới mục tiêu. Mình có chị Clary và anh Root giúp sức bên trong lò luyện, và mình còn có cả bộ tộc nữa. Mình không hề cô độc!
+			POKE: Dù sao, mình vẫn sẽ cố gắng hết sức. Thầy Annona cũng nói, nếu mình đã cố hết sức mà vẫn chưa đủ, thì tất cả chúng ta sẽ cùng tìm cách khác để đạt tới mục tiêu. Mình có chị Clary và anh Root giúp sức bên trong lò luyện, và mình còn có cả bộ tộc nữa. Mình không hề đơn độc!
 		</value>
 	</entry>
 	<entry>
@@ -154,7 +154,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).</key>
-		<value>SOLANUM: Chẳng ai biết rõ vũ trụ này đã sinh ra như thế nào, nhưng chúng ta biết được rằng nó đã từng rất nóng và rất đặc (xếp sát khít lại với nhau).</value>
+		<value>SOLANUM: Chẳng ai biết rõ vũ trụ này được sinh ra như thế nào, nhưng chúng ta biết được rằng vạn vật đã từng rất nóng và rất đặc (nằm sát khít lại với nhau).</value>
 	</entry>
 	<entry>
 		<key>
@@ -177,7 +177,7 @@
 			SOLANUM: This universe will keep getting colder and larger, until one day, the stars and the life they support will all die.
 		</key>
 		<value>
-			SOLANUM: Vũ trụ sẽ cứ thế lạnh hơn và rộng hơn, cho đến một ngày, những vì sao và sự sống chúng nuôi dưỡng cũng sẽ kết thúc.
+			SOLANUM: Vũ trụ sẽ cứ thế lạnh hơn và rộng hơn, cho đến một ngày, những vì sao và sự sống chúng nuôi dưỡng cũng sẽ đồng loạt kết thúc.
 		</value>
 	</entry>
 	<entry>
@@ -185,7 +185,7 @@
 			SOLANUM: That’s scary to think about, even though Conoy tells me it won’t happen in our lifetimes. But it’ll happen in someone else’s, someday!
 		</key>
 		<value>
-			SOLANUM: Điều này thật đáng sợ, kể cả khi thầy Conoy bảo mình nó sẽ chưa xảy ra trong cuộc đời của chúng ta. Nhưng nó sẽ xảy ra với cuộc đời của người khác, vào một ngày nào đó!
+			SOLANUM: Điều này thật đáng sợ, kể cả khi thầy Conoy trấn an mình rằng nó sẽ không xảy ra trong cuộc đời của chúng ta. Nhưng điều đáng sợ ấy vẫn sẽ xảy ra trong cuộc đời của người khác, vào một ngày nào đó!
 		</value>
 	</entry>
 	<entry>
@@ -193,7 +193,7 @@
 			LAMI: Explanation of Festivals
 		</key>
 		<value>
-			LAMI: Giải Thích Về Lễ Hội
+			LAMI: Giải thích về Lễ Hội
 		</value>
 	</entry>
 	<entry>
@@ -296,11 +296,11 @@
 	</entry>
 	<entry>
 		<key>SPIRE: An update: It’s now clear there are two different types of cyclone.</key>
-		<value>SPIRE: Tin mới: Chúng tôi đã chứng minh được rằng có hai loại vòi rồng.</value>
+		<value>SPIRE: Tin mới: Chúng tôi đã chứng minh được rằng có hai loại vòi rồng khác nhau.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</key>
-		<value>SPIRE: Phần lớn các vòi rồng trên &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; xoay theo chiều kim đồng hồ. Đó là loại vòi rồng mà Cassava thường sử dụng để phóng các bộ phận lên quỹ đạo.</value>
+		<value>SPIRE: Phần lớn các vòi rồng trên &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; xoay theo chiều kim đồng hồ. Đó là loại vòi rồng mà Cassava thường sử dụng để đưa các bộ phận lên quỹ đạo.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
@@ -308,7 +308,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: My gratitude, Spire. Conoy is showing me your handiwork, and I’m intrigued by this secondary type of cyclone. But was it really necessary to build a model to tell me that?</key>
-		<value>CASSAVA: Cảm ơn, Spire. Conoy đang cho tôi xem chế tác của anh, và tôi cũng thấy loại vòi rồng thứ hai này thú vị đấy. Nhưng có cần thiết phải chế tạo hẳn một mô hình để nói với tôi điều này không?</value>
+		<value>CASSAVA: Cảm ơn Spire. Conoy đang cho tôi xem chế tác của anh, và tôi cũng thấy loại vòi rồng thứ hai này thú vị đấy. Nhưng có cần thiết phải chế tạo hẳn một mô hình để nói với tôi điều này không?</value>
 	</entry>
 	<entry>
 		<key>SPIRE: The model will be useful as we continue monitoring &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;.</key>
@@ -348,7 +348,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</key>
-		<value>THATCH: Tôi không hiểu nổi. Tại sao &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; lại gặp sự cố ở nơi đó?</value>
+		<value>THATCH: Tôi không hiểu nổi. Tại sao &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; lại gặp tai nạn ở nơi đó?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Was the &lt;color=orange&gt;Vessel&lt;/color&gt; unwell in some way?</key>
@@ -384,18 +384,18 @@
 	</entry>
 	<entry>
 		<key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-		<value>BELLS: Sau khi hai nhóm được đoàn tụ, việc tìm kiếm và ghé thăm &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; đã trở thành sứ mệnh chung của toàn bộ tộc. Để đạt được sứ mệnh ấy cần rất nhiều thời gian, và nhiều người Nomai đã phải mang giấc mơ được nhìn thấy &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; theo mình tới cõi vĩnh hằng, trước khi chúng ta kịp khám phá ra cách để tới đó.</value>
+		<value>BELLS: Sau khi hai nhóm được đoàn tụ, việc tìm kiếm và ghé thăm &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; đã trở thành sứ mệnh chung của toàn bộ tộc. Để đạt được sứ mệnh ấy cần rất nhiều thời gian, và nhiều người Nomai đã phải mang giấc mơ được tận mắt nhìn thấy &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; theo mình tới cõi vĩnh hằng, trước khi chúng ta kịp khám phá ra cách để tới đó.</value>
 	</entry>
 	<entry>
 		<key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
-		<value>BELLS: Khi em tới được &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;, hãy tưởng nhớ về những người Nomai đó, và mang theo sự tò mò của họ trên suốt cuộc hành trình của mình.</value>
+		<value>BELLS: Khi em tới &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;, hãy tưởng nhớ về những người Nomai đó, và mang theo sự tò mò của họ trên suốt cuộc hành trình của mình.</value>
 	</entry>
 	<entry>
 		<key>
 			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
 		</key>
 		<value>
-			PLUME: &lt;i&gt;Mấy cái cây&lt;/i&gt; đang chuyển động! Cây ở nơi này có thể thay đổi vị trí một cách vô tổ chức (di chuyển nguyên cả cái cây luôn, từ rễ đến lá)! Điều này &lt;i&gt;không bình thường chút nào&lt;/i&gt;, kể cả đối với hành tinh xa lạ này. Và tôi chưa nhìn thấy được cách mà chúng chuyển động! Sao lại có thể như thế được?!
+			PLUME: &lt;i&gt;Mấy cái cây&lt;/i&gt; đang chuyển động! Cây ở nơi này có thể thay đổi vị trí một cách vô tổ chức (di chuyển nguyên cả cái cây luôn, từ rễ đến lá)! Điều này &lt;i&gt;không bình thường chút nào&lt;/i&gt;, kể cả đối với hành tinh xa lạ này. Và tôi chưa bao giờ thấy được quá trình chúng di chuyển! Sao lại có thể như thế được?!
 		</value>
 	</entry>
 	<entry>
@@ -403,7 +403,7 @@
 			PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!
 		</key>
 		<value>
-			PLUME: Nếu ai khác chứng kiến được hiện tượng đáng quan ngại này, tôi cầu xin người đó, hãy ghi lại quan sát của mình ở đây. Nếu chẳng phải mấy cái cây này không bình thường, thì chính là do đầu óc tôi bất thường!
+			PLUME: Nếu có ai khác chứng kiến được hiện tượng đáng quan ngại này, tôi cầu xin người đó, hãy ghi lại quan sát của mình ở đây. Nếu chẳng phải mấy cái cây này không bình thường, thì chính là do đầu óc tôi bất thường!
 		</value>
 	</entry>
 	<entry>
@@ -411,7 +411,7 @@
 			THATCH: Plume is right; the trees &lt;i&gt;do&lt;/i&gt; move! I confess I didn’t notice until I read his notes.
 		</key>
 		<value>
-			THATCH: Plume nói đúng; những cái cây &lt;i&gt;có&lt;/i&gt; di chuyển thật! Thú thực tôi cũng chẳng để ý cho đến khi đọc những gì anh ấy viết.
+			THATCH: Plume nói đúng; những cái cây này &lt;i&gt;thật sự&lt;/i&gt; di chuyển! Thú thực tôi cũng chẳng để ý cho đến khi đọc những gì anh ấy viết.
 		</value>
 	</entry>
 	<entry>
@@ -419,7 +419,7 @@
 			THATCH: Alarmingly, it isn’t only the trees: There is other matter in this area (such as that unusual shard of rock) moving in this same eerie way.
 		</key>
 		<value>
-			THATCH: Đáng báo động hơn, không chỉ những cái cây: Có những vật chất khác trong khu vực này (mảnh đá kỳ dị đằng kia chẳng hạn) cũng đang chuyển động theo cái cách ghê rợn như vậy.
+			THATCH: Đáng báo động hơn, không chỉ những cái cây: Có những vật chất khác trong khu vực này (mảnh đá kỳ dị đằng kia chẳng hạn) cũng đang chuyển động theo cùng cái cách ghê rợn như vậy.
 		</value>
 	</entry>
 	<entry>
@@ -499,7 +499,7 @@
 			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
 		</key>
 		<value>
-			BELLS: Trên hành trình của mình, &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; sẽ đưa em, cũng như nó đã từng đưa cô và nhiều người khác của bộ tộc, tới vị trí bí mật nhất - vị trí thứ sáu của nó.
+			BELLS: Trên hành trình của mình, &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt; sẽ đưa em, cũng như nó đã từng đưa cô và nhiều thành viên khác của bộ tộc, tới vị trí bí mật nhất - vị trí thứ sáu của nó.
 		</value>
 	</entry>
 	<entry>
@@ -507,7 +507,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
 		<value>
-			BELLS: Em sẽ được trợ giúp bởi điện thờ mà bộ tộc chúng ta đã xây dựng trên &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;. Nhưng hãy nhớ kỹ quy luật cuối cùng này: Để có thể khám phá được vị trí thứ sáu, điện thờ phải nằm trên cực bắc của mặt trăng.
+			BELLS: Em sẽ được hỗ trợ bởi điện thờ mà bộ tộc chúng ta đã xây dựng trên &lt;color=lightblue&gt;Mặt Trăng Lượng Tử&lt;/color&gt;. Nhưng hãy nhớ kỹ quy tắc cuối cùng này: Để có thể khám phá được vị trí thứ sáu, điện thờ phải nằm trên cực bắc của mặt trăng.
 		</value>
 	</entry>
 	<entry>
@@ -856,7 +856,7 @@
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
-		<value>PYE: Chuyện này tệ hơn vạn lần so với chị có thể tưởng tượng được. Nếu hòn đá này mà vỡ ra, vật chất nguy hiểm chết người bên trong sẽ nhanh chóng nở ra, phủ kín hệ sao này trong chớp mắt. Thế mà áp lực vẫn tiếp tục tăng lên khi &lt;color=lightblue&gt;sao chổi&lt;/color&gt; này tiến gần hệ sao hơn...</value>
+		<value>PYE: Chuyện này tệ hơn vạn lần so với suy đoán ban đầu của chị. Nếu hòn đá này mà vỡ ra, vật chất nguy hiểm chết người bên trong sẽ nhanh chóng nở ra, phủ kín hệ sao này trong chớp mắt. Thế mà áp lực vẫn tiếp tục tăng lên khi &lt;color=lightblue&gt;sao chổi&lt;/color&gt; này tiến gần hệ sao hơn...</value>
 	</entry>
 	<entry>
 		<key>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</key>
@@ -880,7 +880,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-		<value>CLARY: Pye, Poke, và tôi đáp lên &lt;color=lightblue&gt;sao chổi&lt;/color&gt; không lâu sau khi nó tiến vào hệ sao này. Trang thiết bị trên &lt;color=orange&gt;phi thuyền&lt;/color&gt; của chúng tôi thu được những xung năng lượng kỳ lạ phát ra từ bên dưới bề mặt.</value>
+		<value>CLARY: Pye, Poke, và tôi đáp lên &lt;color=lightblue&gt;sao chổi&lt;/color&gt; không lâu sau khi nó tiến vào hệ sao này. Trang thiết bị trên &lt;color=orange&gt;phi thuyền&lt;/color&gt; của chúng tôi thu được những xung năng lượng kỳ lạ phát ra từ phía dưới lớp vỏ bề mặt.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
@@ -1696,7 +1696,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</key>
-		<value>YARROW: Chúng tôi sẽ rất biết ơn nếu được anh giúp đỡ! Chúng tôi cần càng nhiều người giám sát càng tốt, vì chỉ cần một sai sót nhỏ nhất hay một vết hở trên lớp vỏ bảo vệ &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; cũng sẽ dẫn tới thảm họa.</value>
+		<value>YARROW: Chúng tôi sẽ rất biết ơn nếu được anh giúp đỡ! Ta cần càng nhiều người giám sát càng tốt, vì chỉ cần một sai sót nhỏ nhất hay một vết hở trên lớp vỏ bảo vệ &lt;color=orange&gt;Dự Án Ash Twin&lt;/color&gt; cũng sẽ dẫn tới thảm họa.</value>
 	</entry>
 	<entry>
 		<key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
@@ -1796,7 +1796,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_4I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>Tôi đoán đây là một hành vi bất ổn nào đó của thời gian, nhưng tôi lại chưa nghĩ tới việc hành vi ấy gây ảnh hưởng thế nào lên hình dáng của dòng thời gian cả. Nhưng một vòng lặp như cậu nói nghe hợp lý đấy. Ta sẽ tạm gọi là "vòng lặp" nhé.</value>
+		<value>Tôi mới chỉ đoán đây là một hành vi bất ổn nào đó của thời gian, chứ chưa nghĩ tới việc hành vi ấy gây ảnh hưởng thế nào lên hình dáng của dòng thời gian cả. Nhưng một vòng lặp như cậu nói nghe hợp lý đấy. Ta sẽ tạm gọi là "vòng lặp" nhé.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
@@ -1884,11 +1884,11 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-		<value>Ý là, chỗ này thường xuyên yên tĩnh và thanh bình. Chứ thi thoảng cũng có một cái vòng rồng chạy qua và nhấc bổng cả cái hòn đảo thiên đường này khỏi mặt nước. Lúc ấy thì đúng là hết bình yên luôn.</value>
+		<value>Ý là, chỗ này thường xuyên yên tĩnh và thanh bình. Chứ thi thoảng cũng có một cái vòi rồng chạy qua và nhấc bổng cả cái hòn đảo thiên đường của tôi khỏi mặt nước. Lúc ấy thì đúng là hết bình yên luôn.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Có thứ này chắc cậu sẽ thích này — ở đầu mỗi vòng lặp thời gian, tôi luôn thấy được một tia sáng chói chớp lên trên bầu trời. Có điều gì đó đang diễn ra ngoài quỹ đạo của hành tinh này.</value>
+		<value>Có thứ này chắc cậu sẽ thích này — ở đầu mỗi vòng lặp thời gian, tôi luôn thấy được một tia sáng chói lòa chớp lên trên bầu trời. Có điều gì đó đang diễn ra ngoài quỹ đạo của hành tinh này.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -1904,11 +1904,11 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FHaha, I know, right?</key>
-		<value>Haha, tôi cũng biết hành tinh này bị làm sao mà, nhỉ?</value>
+		<value>Haha, tôi cũng thấy hành tinh này bị làm sao thật.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...À, ý cậu hỏi là, muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Ờ, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
+		<value>...À, ý cậu hỏi là muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Xem nào, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
@@ -1920,7 +1920,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>Cậu thấy mấy cái vòi rồng đằng kia rồi chứ? Không thấy thế nào được. Chúng có thể nhấc bổng tất cả mọi thứ chúng đi qua lên trên, mấy hòn đảo cũng không thoát. Cho cậu lời khuyên nho nhỏ này — nếu chẳng may cậu bị hút lên trên, hãy tìm cách rơi xuống nước. Như thế sẽ ít nguy cơ chết hơn.</value>
+		<value>Cậu thấy mấy cái vòi rồng đằng kia rồi chứ? Không thấy thế nào được. Chúng sẽ nhấc bổng tất cả mọi thứ trên đường chúng đi qua, mấy hòn đảo cũng không thoát luôn. Cho cậu lời khuyên nho nhỏ này — nếu chẳng may cậu bị hút lên trên, hãy tìm cách rơi xuống nước. Như thế sẽ ít nguy cơ chết hơn.</value>
 	</entry>
 	<entry>
 		<key>GabbrosShipThat’s a good question.</key>
@@ -2024,7 +2024,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FThen again, who wants to spend eternity being blown up by the sun?</key>
-		<value>Nhưng mà, có ai lại muốn chết chung cùng mặt trời mãi đâu?</value>
+		<value>Nhưng mà, có ai lại muốn chết chung với mặt trời mãi đâu?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3F...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
@@ -2052,7 +2052,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Vậy nghĩa là chúng ta đang nhận được ký ức về những điều chưa từng xảy ra với ta. Cũng ngầu phết, nhỉ?</value>
+		<value>Vậy nghĩa là chúng ta đang nhận được ký ức về những điều chưa từng xảy ra với ta. Cũng thú vị phết, nhỉ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bRight, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</key>
@@ -2100,11 +2100,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-		<value>Mặt khác, ta cũng phải công nhận rằng họ đã tạo ra được một thiết bị bền đến mức thời nay vẫn chạy tốt. Vì có vẻ bệ pháo vẫn luôn khai hỏa thành công tại đầu mỗi vòng lặp.</value>
+		<value>Mặt khác, ta cũng phải công nhận rằng họ đã tạo ra được một thiết bị bền đến mức tới tận ngày hôm nay vẫn chạy tốt. Vì có vẻ bệ pháo vẫn luôn khai hỏa thành công tại đầu mỗi vòng lặp.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3FYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-		<value>Phải rồi, bài thơ trong khu rừng đó, tôi có nhớ. Thú vị phết, phải không? 24 phiên bản, đọc bản nào cũng trôi.</value>
+		<value>Phải rồi, bài thơ được viết trong khu rừng đó, tôi có nhớ. Thú vị phết, phải không? 24 phiên bản, đọc bản nào cũng trôi.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3FWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
@@ -2120,7 +2120,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-		<value>Chắc là chụp lúc bác Hornfels cử tôi đi kiểm tra vệ tinh không gian sâu. Họ tưởng rằng Lão Vệ Tinh đang gặp sự cố, nhưng tôi lại chẳng tìm thấy có gì sai cả.</value>
+		<value>Chắc là được chụp lúc bác Hornfels cử tôi đi kiểm tra vệ tinh không gian xa. Họ tưởng rằng Lão Vệ Tinh đang gặp sự cố, nhưng tôi lại chẳng phát hiện ra điều gì bất thường cả.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
@@ -2128,455 +2128,455 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</key>
-		<value>I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</value>
+		<value>Tôi luôn thấy vui khi cách tốt nhất để tìm Lão Vệ Tinh là sử dụng bản đồ được sinh bởi chính vệ tinh đó. Cứ như thể lão đang mời ta ghé qua vậy. Một lão vệ tinh không gian xa trung thành, luôn tận tâm cống hiến để đảm bảo chúng ta không đi lạc.</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Why’d Hornfels think it was broken?</key>
-		<value>Why’d Hornfels think it was broken?</value>
+		<value>Sao bác Hornfels lại nghĩ nó bị hỏng nhỉ?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Um. “Ol’ Spacey”?</key>
-		<value>Um. “Ol’ Spacey”?</value>
+		<value>Ừm. “Lão Vệ Tinh”?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6I have a map?!</key>
-		<value>I have a map?!</value>
+		<value>Em có bản đồ á?!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aDunno. Hornfels probably told me why, but Hornfels tells me lots of things, and sometimes I tune out. Or pretend there’s signal interference and I can’t hear them.</key>
-		<value>Dunno. Hornfels probably told me why, but Hornfels tells me lots of things, and sometimes I tune out. Or pretend there’s signal interference and I can’t hear them.</value>
+		<value>Chẳng nhớ nữa. Bác Hornfels hình như đã kể với tôi rồi, nhưng bác Hornfels cũng kể cho tôi ti tỉ thứ khác nữa, nên nhièu khi tôi cũng chẳng chú ý. Hoặc là giả vờ như tín hiệu gặp sự cố và tôi không nghe rõ bác ấy nói gì nữa.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aBest guess says the deep space satellite must have sent Timber Hearth some weird pictures, but like… what’s considered “weird” for a satellite, you know?</key>
-		<value>Best guess says the deep space satellite must have sent Timber Hearth some weird pictures, but like… what’s considered “weird” for a satellite, you know?</value>
+		<value>Tôi đoán là vệ tinh không gian xa đã gửi tới Timber Hearth một vài tấm ảnh kỳ cục, nhưng mà… như thế nào thì được coi là "kỳ cục" đối với một vệ tinh, cậu thử nghĩ xem?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
-		<value>Anyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</value>
+		<value>Dù sao thì, nếu cậu có muốn ghé qua chơi với Lão Vệ Tinh, cách nhanh nhất là chui lên phi thuyền của cậu rồi dùng bản đồ hệ mặt trời để khóa mục tiêu vào vệ tinh, hệt như cách cậu làm với những thiên thể khác ấy.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bI mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</key>
-		<value>I mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</value>
+		<value>Thì, vệ tinh ấy cũng không &lt;i&gt;già&lt;/i&gt; tới mức ấy, nhưng cũng chẳng phải mới tinh gì. “Lão” là từ tôi dùng để gọi vui thôi. ...Cậu đang tư duy theo nghĩa đen quá đấy.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bOl’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</key>
-		<value>Ol’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</value>
+		<value>Lão Vệ Tinh rất thích có người đến chơi, cậu biết chứ? Cách nhanh nhất để tìm tới đó là chui lên phi thuyền của cậu rồi dùng bản đồ hệ mặt trời để khóa mục tiêu vào anh bạn vệ tinh trung thành của chúng ta, hệt như cách cậu làm với những thiên thể khác ấy.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cYeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</key>
-		<value>Yeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</value>
+		<value>Ừ, ờm, là cái bản đồ được tích hợp với tất cả bộ đồ phi hành gia của chúng ta ấy? Là cái bản đồ lúc nào cũng đi theo cậu và mở ra chỉ với một nút bấm ấy? …Là cái bản đồ ấy đấy?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cYou didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</key>
-		<value>You didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</value>
+		<value>Trên đường tới đây cậu chưa cộc đầu vào hòn đá hay mảnh thiên thể nào đâu, nhỉ? Nếu có thì cũng không phải xấu hổ nha. Tôi bị như thế suốt!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cIn case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</key>
-		<value>In case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</value>
+		<value>Còn trong trường hợp cậu đã cộc đầu một cú rất đau, thì để tôi nhắc cậu nhớ rằng cậu có thể chui lên phi thuyền của mình rồi dùng bản đồ hệ mặt trời để khóa mục tiêu vào bất kỳ thiên thể nào. Đó cũng là cách dễ nhất để tới thăm Lão Vệ Tinh luôn.</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingExitNo worries. Feel free to let me know when you do find something cool, though. You know where to find me.</key>
-		<value>No worries. Feel free to let me know when you do find something cool, though. You know where to find me.</value>
+		<value>Không sao nha. Cứ thoải mái khoe với tôi khi cậu khám phá được điều gì đó hay ho. Cậu biết phải tìm tôi ở đâu rồi đấy.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_1I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</key>
-		<value>I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</value>
+		<value>Tôi đang mong cậu sẽ quay lại đấy - có điều gì đó &lt;i&gt;rất là&lt;/i&gt; kỳ cục đang diễn ra.</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1Do you think we’re in a time loop?</key>
-		<value>Do you think we’re in a time loop?</value>
+		<value>Anh có nghĩ chúng ta đang kẹt trong một vòng lặp thời gian không?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1We’re definitely in a time loop.</key>
-		<value>We’re definitely in a time loop.</value>
+		<value>Chắc kèo là chúng ta đang kẹt trong một vòng lặp thời gian rồi.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_2Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</key>
-		<value>Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</value>
+		<value>Phải, một vòng lặp thời gian nghe hợp lý nhất. Hoặc ít nhất, đây là một hành vi bất ổn nào đó của thời gian. Vẫn chưa nói được chuyện gì đang gây ảnh hưởng lên hình dáng của dòng thời gian cả, nhưng ta sẽ cứ tạm gọi là "vòng lặp" nhé.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_3Oh. Yeah, that makes sense. Cool.</key>
-		<value>Oh. Yeah, that makes sense. Cool.</value>
+		<value>Ồ. Phải đấy, nghe hợp lý lắm. Thật thú vị.</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_3You’re taking this pretty well.</key>
-		<value>You’re taking this pretty well.</value>
+		<value>Anh đối mặt với chuyện này thản nhiên phết nhỉ?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_3What did you think it was?</key>
-		<value>What did you think it was?</value>
+		<value>Thế nãy anh nghĩ chuyện gì đang xảy ra?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</key>
-		<value>Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</value>
+		<value>Heh, cậu cũng vậy còn gì. Bản thôi tôi thích những trải nghiệm mới mẻ, và tôi lại chưa từng bị ket trong một vòng lặp thời gian nào cả.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
-		<value>Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</value>
+		<value>Tôi không &lt;i&gt;nghĩ&lt;/i&gt; mình từng kẹt trong một vòng lặp nào khác trước đây cả, nhưng mà, tôi cũng chẳng biết chắc điều đó đâu.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</value>
+		<value>Tôi mới chỉ đoán đây là một hành vi bất ổn nào đó của thời gian, chứ chưa nghĩ tới việc hành vi ấy gây ảnh hưởng thế nào lên hình dáng của dòng thời gian cả. Nhưng một vòng lặp như cậu nói nghe hợp lý đấy. Ta sẽ tạm gọi là "vòng lặp" nhé.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
-		<value>So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</value>
+		<value>Có vẻ chỉ cậu và tôi là những người duy nhất biết được về chuyện bị kẹt trong vòng lặp thời gian này. Kể cả khi cậu kể cho người khác, cũng chẳng ai nhớ điều đó trong vòng lặp tiếp theo. Sao lại thế nhỉ?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-		<value>Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</value>
+		<value>Có khi nào là do cả hai chúng ta đều đã nhìn vào bức tượng Nomai một cách đắm đuối?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
-		<value>I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</value>
+		<value>Tôi được xem lại ký ức của mình mỗi khi chết, hệt như lúc bức tượng Nomai trên biển mở mắt và nhìn về phía tôi. Vậy là... không thấy tượng phát sáng, thì không biết về vòng lặp thời gian?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-		<value>I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</value>
+		<value>Chắc đó sẽ là giả thiết khả thi nhất tôi đưa ra được, nhưng nếu cậu phát hiện ra điều gì mới về những bức tượng và vòng lặp thời gian, thì qua nói cho tôi biết nữa nhé? Tôi sẽ ở đây thôi.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_SecondaryHey, my time buddy’s back!</key>
-		<value>Hey, my time buddy’s back!</value>
+		<value>Hế, anh bạn xuyên thời gian của tôi quay lại rồi này!</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuSo what’s new?</key>
-		<value>So what’s new?</value>
+		<value>Có gì mới không nhỉ?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3TWell, what are any of us doing here, really?</key>
-		<value>Well, what are any of us doing here, really?</value>
+		<value>Thế hai chúng ta đang làm gì ở đây vậy?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-		<value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+		<value>...Nah, tôi trêu cậu thôi. Tôi cũng đang thám hiểm hệ mặt trời của chúng ta, hệt như cậu.</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+		<value>Nhưng tôi bảo nhé, ở ngoài không gian cho cậu nhiều cơ hội để suy tư lắm. Chỗ này vừa yên tĩnh, lại vừa thanh bình.</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_3TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-		<value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+		<value>Ý là, chỗ này thường xuyên yên tĩnh và thanh bình. Chứ thi thoảng cũng có một cái vòi rồng chạy qua và nhấc bổng cả cái hòn đảo thiên đường của tôi khỏi mặt nước. Lúc ấy thì đúng là hết bình yên luôn.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+		<value>Có thứ này chắc cậu sẽ thích này — ở đầu mỗi vòng lặp thời gian, tôi luôn thấy được một tia sáng chói lòa chớp lên trên bầu trời. Có điều gì đó đang diễn ra ngoài quỹ đạo của hành tinh này.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+		<value>Còn gì nữa nhỉ, gì nữa nhỉ... Thế cậu đã tới Đảo Tạc Tượng chưa? Đấy là tôi gọi nó thế, vì &lt;i&gt;hòn đảo&lt;/i&gt; ấy là nơi tôi tìm thấy &lt;i&gt;bức tượng&lt;/i&gt; Nomai phát sáng.&lt;Pause&gt; ...Cậu hiểu chứ?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+		<value>Tôi đang thơ thẩn trên bờ biển của Đảo Tạc Tượng thì vụ tượng phát sáng ấy diễn ra. Hẳn là một bờ biển đẹp dành cho những việc kỳ cục như thế. Tôi chấm nơi đó 7 trên 10 điểm trên Thang Đo Thư Giãn Gabbro.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+		<value>Nếu cậu muốn qua Đảo Tạc Tượng xem thử, hãy tìm hai hòn đảo được nối với nhau bằng một vòm đá tự nhiên nhé. À... chỉ gần như nối với nhau thôi. Cậu qua đó là biết.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3THaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>Haha, tôi cũng thấy hành tinh này bị làm sao thật.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...À, ý cậu hỏi là muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Xem nào, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>Ở dưới nước có một dòng hải lưu mạnh đến mức cản không cho bất cứ thứ gì chìm qua nó. Thật luôn, tôi đã thử mọi cách mình nghĩ ra để vượt qua dòng nước ấy, nhưng chẳng cách nào hiệu quả cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+		<value>Còn về mặt đất, tôi đếm được bốn hòn đảo, tính cả hòn đảo này. Cũng tính cả hòn đảo có bức tượng Nomai tôi thấy trên bờ biển luôn.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</value>
+		<value>Cậu thấy mấy cái vòi rồng đằng kia rồi chứ? Không thấy thế nào được. Chúng sẽ nhấc bổng tất cả mọi thứ trên đường chúng đi qua, mấy hòn đảo cũng không thoát luôn. Cho cậu lời khuyên nho nhỏ này — nếu chẳng may cậu bị hút lên trên, hãy tìm cách rơi xuống nước. Như thế sẽ ít nguy cơ chết hơn.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3TSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-		<value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+		<value>Vậy là người Nomai đã chế tạo ra những bức tượng bán thân đó để ghi lại ký ức hử? ...Công nhận, tôi cũng thấy hợp lý. Chẳng biết họ làm thế vì mục đích gì, nhưng đây đúng kiểu mấy việc mà người Nomai sẽ làm.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3TDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-		<value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+		<value>Thế cậu có nghĩ rằng mấy bức tượng đó đang ghi lại ký ức của chúng ta không? Vì tôi nhớ mình có bị một bức tượng trên bãi biển nhìn đểu. Bức tượng đó hẳn đang giữ ký ức của tôi rồi!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Ash Twin và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+		<value>Giờ thì ta biết cái gì đang gây ra vòng lặp thời gian rồi. Và... nếu nó được tạo ra bởi một thiết bị, nghĩa là thiết bị đó phải được bật lên, phải không?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+		<value>Này, cậu nghĩ chuyện gì sẽ xảy ra nếu cậu tắt vòng lặp thời gian đi? Một phần trong tôi nghĩ rằng cậu không nên làm vậy, vì mặt trời chẳng mấy rồi sẽ phát nổ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TThen again, who wants to spend eternity being blown up by the sun?</key>
-		<value>Then again, who wants to spend eternity being blown up by the sun?</value>
+		<value>Nhưng mà, có ai lại muốn chết chung với mặt trời mãi đâu?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3T...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+		<value>...Tôi cũng chịu, tôi chẳng phải chuyên gia về vòng lặp thời gian đâu. Chắc tôi sẽ chỉ ngồi đây và suy ngẫm về mớ hỗn độn của thời không. Có khi tôi cũng sẽ đánh luôn một giấc cho đã đời, nếu tôi có hứng.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+		<value>Cậu nói rằng những bức tượng đó được tạo ra để đưa ký ức trở về quá khứ? Chắc cũng hợp lý đấy, vì cả hai ta đều giữ được ký ức của những vòng lặp trước đây.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+		<value>Khoan đã, vậy là chỉ có ký ức của chúng ta được đưa về cho chúng ta ở quá khứ thôi, phải không? Vậy thì... chúng ta có đang thật sự trải nghiệm những vòng lặp thời gian không?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+		<value>Phức tạp phết đấy... Có lẽ ý thức của chúng ta đã trải qua tất cả những vòng lặp ấy, nhưng cơ thể lại không, vì theo lý thuyết, những vòng lặp ấy chưa từng xảy ra.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+		<value>Vậy nghĩa là chúng ta đang nhận được ký ức về những điều chưa từng xảy ra với ta. Cũng thú vị phết, nhỉ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+		<value>Whoa, vậy là khẩu pháo đó vỡ tung thành nhiều mảnh vào đầu mỗi vòng lặp? Thật à?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TDid you figure out why?</key>
-		<value>Did you figure out why?</value>
+		<value>Cậu biết tại sao không?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_3TToo much power.</key>
-		<value>Too much power.</value>
+		<value>Thừa năng lượng.</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_3TOverenthusiasm.</key>
-		<value>Overenthusiasm.</value>
+		<value>Quá khích.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3T...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+		<value>...Hơi rợn người chút khi vụ này nghe hệt như mấy việc mà Slate hoặc Feldspar hay làm. Tôi cũng ngạc nhiên khi người Nomai lại tạo ra thứ gì hỏng được đấy!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+		<value>Nhưng nghĩ kỹ xem, dùng từ “hỏng” thì lại không hẳn là đúng. Vì có vẻ Pháo Vệ Tinh Do Thám vẫn luôn khai hỏa thành công tại đầu mỗi vòng lặp.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-		<value>So the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</value>
+		<value>Vậy là bệ pháo đó vỡ tung thành nhiều mảnh sau khi khai hỏa à. Lý giải được những vụn từ trên trời rơi xuống mà tôi thấy mỗi vòng lặp.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-		<value>I’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</value>
+		<value>Tôi vẫn thấy ngạc nhiên khi người Nomai lại tạo ra thứ gì hỏng được đấy, cậu cũng biết mà? Họ toàn là những thiên tài.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-		<value>On the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</value>
+		<value>Mặt khác, ta cũng phải công nhận rằng họ đã tạo ra được một thiết bị bền đến mức tới tận ngày hôm nay vẫn chạy tốt. Vì có vẻ bệ pháo vẫn luôn khai hỏa thành công tại đầu mỗi vòng lặp.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3TYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-		<value>Yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+		<value>Phải rồi, bài thơ được viết trong khu rừng đó, tôi có nhớ. Thú vị phết, phải không? 24 phiên bản, đọc bản nào cũng trôi.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3TWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-		<value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</value>
+		<value>Khi tôi chán thám hiểm rồi, tôi sẽ quay lại sáng tác thêm những tác phẩm lượng tử khác. Chẳng hạn như mấy bức tượng điêu khắc, kiểu, sẽ xuất hiện bất thình lình và dọa cậu sợ chết khiếp ấy.</value>
 	</entry>
 	<entry>
 		<key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
-		<value>Hey, time pal! Nice weather we’re having, huh? &lt;Pause /&gt;...Wait. Have I used that one before?</value>
+		<value>Hey, cộng sự xuyên thời gian! Thời tiết nay đẹp phết, nhỉ? &lt;Pause /&gt;...Ủa khoan. Tôi từng nói câu này chưa nhỉ?</value>
 	</entry>
 	<entry>
 		<key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
-		<value>If it isn’t my time buddy! How’s space treating you this loop?</value>
+		<value>Chẳng phải là anh bạn xuyên thời gian của tôi sao! Vũ trụ đãi cậu những điều gì trong vòng lặp này?</value>
 	</entry>
 	<entry>
 		<key>GabbroMainHeyo, time buddy. It’s a good thing I never get bored of rain, huh?</key>
-		<value>Heyo, time buddy. It’s a good thing I never get bored of rain, huh?</value>
+		<value>Heyo, cộng sự xuyên thời gian. Cũng may là tôi không thấy chán trời mưa đấy.</value>
 	</entry>
 	<entry>
 		<key>GabbroMainYou know, I kind of wish I’d built a hammock here before we ended up in this time loop.</key>
-		<value>You know, I kind of wish I’d built a hammock here before we ended up in this time loop.</value>
+		<value>Cậu biết không, nhiều lúc tôi chỉ biết ước mình đã mắc võng ở đây trước khi ta bắt đầu kẹt trong vòng lặp thời gian này.</value>
 	</entry>
 	<entry>
 		<key>GabbroMainA few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</key>
-		<value>A few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</value>
+		<value>Cách đây vài vòng lặp, có một vòi rồng chạy qua chỗ tôi và quẳng cả hòn đảo nhỏ xinh này lên vũ trụ. Chết kiểu như vậy cũng khó chịu phết đấy.</value>
 	</entry>
 	<entry>
 		<key>GabbroMain_SecondaryHello again. ...Again.</key>
-		<value>Hello again. ...Again.</value>
+		<value>Mừng cậu trở lại. ...Một lần nữa.</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuWhat’s up?</key>
-		<value>What’s up?</value>
+		<value>Có chuyện gì vui không nhỉ?</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuHow do you stay so calm in the face of repeated impending death?</key>
-		<value>How do you stay so calm in the face of repeated impending death?</value>
+		<value>Sao anh lại có thể bình tĩnh đến vậy khi phải đối mặt với cái chết lặp đi lặp lại?</value>
 	</entry>
 	<entry>
 		<key>HowDoYouStayCalmDeep breaths... no, seriously, I meditate.</key>
-		<value>Deep breaths... no, seriously, I meditate.</value>
+		<value>Chỉ việc hít thở sâu thôi... ơ, tôi nói thật mà, tôi thiền.</value>
 	</entry>
 	<entry>
 		<key>MeditateMenuWant me to teach you? It'll be the next loop before you know it.</key>
-		<value>Want me to teach you? It'll be the next loop before you know it.</value>
+		<value>Muốn tôi dạy cho không? Cậu sẽ chuyển sang vòng lặp tiếp theo mà không nhận ra luôn ấy.</value>
 	</entry>
 	<entry>
 		<key>GabbroMeditateMenuSure, why not.</key>
-		<value>Sure, why not.</value>
+		<value>Được chứ sao không.</value>
 	</entry>
 	<entry>
 		<key>GabbroMeditateMenuNah, I'm good.</key>
-		<value>Nah, I'm good.</value>
+		<value>Thôi, em ổn ạ.</value>
 	</entry>
 	<entry>
 		<key>YesMeditateOk, close your eyes...</key>
-		<value>Ok, close your eyes...</value>
+		<value>Ok, vậy nhắm mắt lại nào...</value>
 	</entry>
 	<entry>
 		<key>NoMeditateOk, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</key>
-		<value>Ok, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</value>
+		<value>Không sao, khi nào nghĩ lại thì cứ bảo tôi nhé. Thời gian sẽ trôi qua rất nhanh nếu cậu đang chìm sâu trong trạng thái thiền định đấy.</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeWell, what are any of us doing here, really?</key>
-		<value>Well, what are any of us doing here, really?</value>
+		<value>Thế hai chúng ta đang làm gì ở đây vậy?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_merge...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-		<value>...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</value>
+		<value>...Nah, tôi trêu cậu thôi. Tôi cũng đang thám hiểm hệ mặt trời của chúng ta, hệt như cậu.</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>But I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</value>
+		<value>Nhưng tôi bảo nhé, ở ngoài không gian cho cậu nhiều cơ hội để suy tư lắm. Chỗ này vừa yên tĩnh, lại vừa thanh bình.</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-		<value>I mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</value>
+		<value>Ý là, chỗ này thường xuyên yên tĩnh và thanh bình. Chứ thi thoảng cũng có một cái vòi rồng chạy qua và nhấc bổng cả cái hòn đảo thiên đường của tôi khỏi mặt nước. Lúc ấy thì đúng là hết bình yên luôn.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet.</value>
+		<value>Có thứ này chắc cậu sẽ thích này — ở đầu mỗi vòng lặp thời gian, tôi luôn thấy được một tia sáng chói lòa chớp lên trên bầu trời. Có điều gì đó đang diễn ra ngoài quỹ đạo của hành tinh này.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</value>
+		<value>Còn gì nữa nhỉ, gì nữa nhỉ... Thế cậu đã tới Đảo Tạc Tượng chưa? Đấy là tôi gọi nó thế, vì &lt;i&gt;hòn đảo&lt;/i&gt; ấy là nơi tôi tìm thấy &lt;i&gt;bức tượng&lt;/i&gt; Nomai phát sáng.&lt;Pause&gt; ...Cậu hiểu chứ?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</value>
+		<value>Tôi đang thơ thẩn trên bờ biển của Đảo Tạc Tượng thì vụ tượng phát sáng ấy diễn ra. Hẳn là một bờ biển đẹp dành cho những việc kỳ cục như thế. Tôi chấm nơi đó 7 trên 10 điểm trên Thang Đo Thư Giãn Gabbro.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>If you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</value>
+		<value>Nếu cậu muốn qua Đảo Tạc Tượng xem thử, hãy tìm hai hòn đảo được nối với nhau bằng một vòm đá tự nhiên nhé. À... chỉ gần như nối với nhau thôi. Cậu qua đó là biết.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeHaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>Haha, tôi cũng thấy hành tinh này bị làm sao thật.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_merge...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...À, ý cậu hỏi là muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Xem nào, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>Ở dưới nước có một dòng hải lưu mạnh đến mức cản không cho bất cứ thứ gì chìm qua nó. Thật luôn, tôi đã thử mọi cách mình nghĩ ra để vượt qua dòng nước ấy, nhưng chẳng cách nào hiệu quả cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>As for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</value>
+		<value>Còn về mặt đất, tôi đếm được bốn hòn đảo, tính cả hòn đảo này. Cũng tính cả hòn đảo có bức tượng Nomai tôi thấy trên bờ biển luôn.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>You’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</value>
+		<value>Cậu thấy mấy cái vòi rồng đằng kia rồi chứ? Không thấy thế nào được. Chúng sẽ nhấc bổng tất cả mọi thứ trên đường chúng đi qua, mấy hòn đảo cũng không thoát luôn. Cho cậu lời khuyên nho nhỏ này — nếu chẳng may cậu bị hút lên trên, hãy tìm cách rơi xuống nước. Như thế sẽ ít nguy cơ chết hơn.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_mergeSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-		<value>So the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</value>
+		<value>Vậy là người Nomai đã chế tạo ra những bức tượng bán thân đó để ghi lại ký ức hử? ...Công nhận, tôi cũng thấy hợp lý. Chẳng biết họ làm thế vì mục đích gì, nhưng đây đúng kiểu mấy việc mà người Nomai sẽ làm.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_mergeDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-		<value>Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</value>
+		<value>Thế cậu có nghĩ rằng mấy bức tượng đó đang ghi lại ký ức của chúng ta không? Vì tôi nhớ mình có bị một bức tượng trên bãi biển nhìn đểu. Bức tượng đó hẳn đang giữ ký ức của tôi rồi!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</value>
+		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Ash Twin và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</value>
+		<value>Giờ thì ta biết cái gì đang gây ra vòng lặp thời gian rồi. Và... nếu nó được tạo ra bởi một thiết bị, nghĩa là thiết bị đó phải được bật lên, phải không...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Hey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</value>
+		<value>Này, cậu nghĩ chuyện gì sẽ xảy ra nếu cậu tắt vòng lặp thời gian đi? Một phần trong tôi nghĩ rằng cậu không nên làm vậy, vì mặt trời chẳng mấy rồi sẽ phát nổ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeThen again, who wants to spend eternity being blown up by the sun?</key>
-		<value>Then again, who wants to spend eternity being blown up by the sun?</value>
+		<value>Nhưng mà, có ai lại muốn chết chung với mặt trời mãi đâu?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWell, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>Well, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</value>
+		<value>Tôi cũng chịu, tôi chẳng phải chuyên gia về vòng lặp thời gian đâu. Chắc tôi sẽ chỉ ngồi đây và suy ngẫm về mớ hỗn độn của thời không. Có khi tôi cũng sẽ đánh luôn một giấc cho đã đời, nếu tôi có hứng.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>You’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</value>
+		<value>Cậu nói rằng những bức tượng đó được tạo ra để đưa ký ức trở về quá khứ? Chắc cũng hợp lý đấy, vì cả hai ta đều giữ được ký ức của những vòng lặp trước đây.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Wait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</value>
+		<value>Khoan đã, vậy là chỉ có ký ức của chúng ta được đưa về cho chúng ta ở quá khứ thôi, phải không? Vậy thì... chúng ta có đang thật sự trải nghiệm những vòng lặp thời gian không?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>That’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</value>
+		<value>Phức tạp phết đấy... Có lẽ ý thức của chúng ta đã trải qua tất cả những vòng lặp ấy, nhưng cơ thể lại không, vì theo lý thuyết, những vòng lặp ấy chưa từng xảy ra.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Meaning we’re receiving memories of things that will never happen to us. Cool, huh?</value>
+		<value>Vậy nghĩa là chúng ta đang nhận được ký ức về những điều chưa từng xảy ra với ta. Cũng thú vị phết, nhỉ?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Whoa, that’s the cannon breaking apart at the start of each time loop? For real?</value>
+		<value>Whoa, vậy là khẩu pháo đó vỡ tung thành nhiều mảnh vào đầu mỗi vòng lặp? Thật à?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeDid you figure out why?</key>
-		<value>Did you figure out why?</value>
+		<value>Cậu biết tại sao không?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_mergeToo much power.</key>
-		<value>Too much power.</value>
+		<value>Thừa năng lượng.</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething4_mergeOverenthusiasm.</key>
-		<value>Overenthusiasm.</value>
+		<value>Quá khích.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_merge...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-		<value>...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</value>
+		<value>...Hơi rợn người chút khi vụ này nghe hệt như mấy việc mà Slate hoặc Feldspar hay làm. Tôi cũng ngạc nhiên khi người Nomai lại tạo ra thứ gì hỏng được đấy!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Come to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</value>
+		<value>Nhưng nghĩ kỹ xem, dùng từ “hỏng” thì lại không hẳn là đúng. Vì có vẻ Pháo Vệ Tinh Do Thám vẫn luôn khai hỏa thành công tại đầu mỗi vòng lặp.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_mergeOh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-		<value>Oh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</value>
+		<value>Phải rồi, bài thơ được viết trong khu rừng đó, tôi có nhớ. Thú vị phết, phải không? 24 phiên bản, đọc bản nào cũng trôi.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_mergeWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</key>
-		<value>When I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</value>
+		<value>Khi tôi chán thám hiểm rồi, tôi sẽ quay lại sáng tác thêm những tác phẩm lượng tử khác. Chẳng hạn như mấy bức tượng điêu khắc, kiểu, sẽ xuất hiện bất thình lình và dọa cậu sợ chết khiếp ấy.</value>
 	</entry>
 	<entry>
 		<key>RECORDING</key>
-		<value>RECORDING</value>
+		<value>GHI ÂM</value>
 	</entry>
 	<entry>
 		<key>RecordingGabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</key>
-		<value>Gabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</value>
+		<value>Gabbro đây, tới để kiểm tra lỗi của vệ tinh không gian xa theo yêu cầu của trạm kiểm soát. Bác Hornfels thấy không? Cháu cũng có làm việc mà!</value>
 	</entry>
 	<entry>
 		<key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
-		<value>You know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</value>
+		<value>Mình cũng không ngại nếu phải làm một chiếc vệ tinh đâu. Ở đây yên bình lắm, như thể đang chìm nghỉm giữa những ngôi sao phía xa xa và màn đêm mềm mịn vậy… Chắc cũng (ngáp) cực kỳ thích hợp để đánh một giấc luôn...</value>
 	</entry>
 	<entry>
 		<key>Recording...</key>
@@ -2584,67 +2584,67 @@
 	</entry>
 	<entry>
 		<key>RecordingOh, right. The lens.</key>
-		<value>Oh, right. The lens.</value>
+		<value>À, phải rồi. Mấy cái ống kính.</value>
 	</entry>
 	<entry>
 		<key>RecordingAlright, little satellite, let's see what the trouble is.</key>
-		<value>Alright, little satellite, let's see what the trouble is.</value>
+		<value>Được rồi, vệ tinh thân mến, để xem ngài đau ở chỗ nào nào.</value>
 	</entry>
 	<entry>
 		<key>Recording...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</key>
-		<value>...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</value>
+		<value>...Ủa. Mọi thứ trông hoàn toàn ổn mà trạm kiểm soát. Các ống kính đều không bám bụi hay xước xát gì, cũng chẳng có dấu vết cháy chập gì luôn. Vậy nghĩa là không có trục trặc thiết bị gì hết.</value>
 	</entry>
 	<entry>
 		<key>RecordingHear that, pal? You’re in great shape. Keep up the good work out here!</key>
-		<value>Hear that, pal? You’re in great shape. Keep up the good work out here!</value>
+		<value>Nghe thấy chứ anh bạn? Anh hoàn toàn khỏe mạnh. Xin hãy tiếp tục cống hiến hết mình nhé!</value>
 	</entry>
 	<entry>
 		<key>SIGN</key>
-		<value>SIGN</value>
+		<value>BIỂN BÁO</value>
 	</entry>
 	<entry>
 		<key>SignCLOSED DUE TO FIRE DAMAGE</key>
-		<value>CLOSED DUE TO FIRE DAMAGE</value>
+		<value>ĐÓNG CỬA DO HỎA HOẠN</value>
 	</entry>
 	<entry>
 		<key>SignThe old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</key>
-		<value>The old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</value>
+		<value>Tháp vô tuyến cũ, dù là một địa điểm quan trọng, đã buộc phải đóng cửa sau một buổi thử nghiệm chưa được cấp phép về một mẫu tên lửa công suất cực lớn.</value>
 	</entry>
 	<entry>
 		<key>SignWhile we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</key>
-		<value>While we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</value>
+		<value>Dù chúng tôi rất mong được trùng tu công trình này trong tương lai gần, hiện nay toàn bộ nguồn lực xây dựng đều đang được tập trung vào việc mở rộng viện bảo tàng tại Đài Thiên Văn.</value>
 	</entry>
 	<entry>
 		<key>SignSincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</key>
-		<value>Sincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</value>
+		<value>Chân thành xin lỗi tất cả mọi người, trừ Slate và Mica,\\n\\nHornfels (quản lý viện bảo tàng)</value>
 	</entry>
 	<entry>
 		<key>SignThe radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</key>
-		<value>The radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</value>
+		<value>Tháp vô tuyến tại Timber Hearth được xây dựng để nhận tín hiệu gửi từ vệ tinh không gian xa của chúng ta, và cho tới ngày hôm nay vẫn lưu trữ những bức ảnh đầu tiên chụp toàn cảnh hệ mặt trời này.</value>
 	</entry>
 	<entry>
 		<key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
-		<value>These photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</value>
+		<value>Những bức ảnh này chỉ có thể chụp được nhờ vào quỹ đạo bay đặc biệt của vệ tinh không gian xa, đưa vệ tinh di chuyển lên trên cao (và cả xuống phía dưới) mặt phẳng của hệ mặt trời.</value>
 	</entry>
 	<entry>
 		<key>SignThanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</key>
-		<value>Thanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</value>
+		<value>Nhờ một cải tiến gần đây, vệ tinh không gian xa giờ đã có thể sinh ra bản đồ thời gian thực của hệ mặt trời để các phi hành gia trẻ tuổi của chúng ta sử dụng.</value>
 	</entry>
 	<entry>
 		<key>SignOur new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</key>
-		<value>Our new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</value>
+		<value>Sự phát triển này chỉ có thể đạt được nhờ vào sự đóng góp rộng lượng của những người tham quan viện bảo tàng như bạn. Xin chân thành cảm ơn!</value>
 	</entry>
 	<entry>
 		<key>SignFUTURE SITE OF OUR NEXT EXHIBIT!</key>
-		<value>FUTURE SITE OF OUR NEXT EXHIBIT!</value>
+		<value>KHU TRIỂN LÃM SẮP MỞ!</value>
 	</entry>
 	<entry>
 		<key>SignIf you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</key>
-		<value>If you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</value>
+		<value>Nếu bạn cảm thấy thích thú với trải nghiệm của mình tại Outer Wilds, xin hãy cân nhắc việc tài trợ cho dự án mở rộng viện bảo tàng của chúng tôi.</value>
 	</entry>
 	<entry>
 		<key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
-		<value>Our quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</value>
+		<value>Sứ mệnh khám phá tới những nơi xa xôi nhất trong hệ mặt trời của chúng tôi sẽ chẳng thể nào đạt được nếu thiếu đi những nhà hảo tâm như bạn! Chúng tôi chân thành cảm ơn đóng góp lớn lao của bạn, và hy vọng sẽ sớm được gặp lại bạn.</value>
 	</entry>
 	<entry>
 		<key>Slate</key>
@@ -2656,191 +2656,191 @@
 	</entry>
 	<entry>
 		<key>Scientist1ASo it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</key>
-		<value>So it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</value>
+		<value>Đến ngày khởi hành của nhóc rồi đấy, nhỉ? Cứ như thể chỉ vừa hôm qua nhóc mới đăng ký tham gia chương trình không gian vậy, mà thoáng một cái nhóc đã ở đây để chuẩn bị khởi hành chuyến thám hiểm đầu tiên của mình rồi.</value>
 	</entry>
 	<entry>
 		<key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
-		<value>What do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</value>
+		<value>Sao nào - sẵn sàng để đưa phi thuyền xinh đẹp này rời khỏi mặt đất chưa? Xăng đã đầy bình, nhóc chỉ việc đi thôi!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AAll systems go!</key>
-		<value>All systems go!</value>
+		<value>Tất cả đã sẵn sàng!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AI’m ready if you are.</key>
-		<value>I’m ready if you are.</value>
+		<value>Nếu bác sẵn sàng thì cháu cũng thế.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-		<value>You’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</value>
+		<value>Bác có &lt;i&gt;chắc&lt;/i&gt; là mình đã sửa xong cụm tên lửa giảm tốc chưa?</value>
 	</entry>
 	<entry>
 		<key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
-		<value>Hey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</value>
+		<value>Này, nhóc đã sẵn sàng để đưa thứ này rời khỏi mặt đất chưa? Xăng đã đầy bình, nhóc chỉ việc đi thôi.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BDid... did I just... die?</key>
-		<value>Did... did I just... die?</value>
+		<value>Ch... cháu vừa mới... chết ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BAll systems go!</key>
-		<value>All systems go!</value>
+		<value>Tất cả đã sẵn sàng!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BI’m ready if you are.</key>
-		<value>I’m ready if you are.</value>
+		<value>Nếu bác sẵn sàng thì cháu cũng thế.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-		<value>You’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</value>
+		<value>Bác có &lt;i&gt;chắc&lt;/i&gt; là mình đã sửa xong cụm tên lửa giảm tốc chưa?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
-		<value>Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</value>
+		<value>Ái chà, nhóc gặp ác mộng hả? Trông nhóc vẫn còn ngái ngủ lắm, nhưng đảm bảo là nhóc chưa chết nhé.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer11I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</key>
-		<value>I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</value>
+		<value>Chúng ta có thông lệ ngủ dưới bầu trời sao trước ngày khởi hành, nhưng ta phải công nhận, ngủ như vậy cũng khiến ta cảm thấy nhộn nhạo trong người lắm.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-		<value>Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</value>
+		<value>Nhóc hào hứng vậy là ta mừng rồi, nhưng nhớ này, nhóc mà làm hỏng phi thuyền thì ta không làm một cho nhóc cái mới đâu. Ta không nhặt ở đâu về được ngần ấy hợp kim nhôm siêu nhẹ đâu, nên liệu mà cẩn thận đấy.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
-		<value>Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</value>
+		<value>Nhóc cứ phải đùa. Tất nhiên là ta sẵn sàng rồi - cuối cùng cũng tới lúc thử nghiệm hệ thống tiếp đất thủy lực với phi công thật thay vì hệ thống tự lái!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</key>
-		<value>...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</value>
+		<value>...Tiện nói luôn, nhóc đừng có đâm hỏng phi thuyền trong lần tiếp đất đầu tiên đấy, nghe chưa?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer14That was only a problem one time. And then maybe a few times after that, but hey, no reason to dwell on the past, right?</key>
-		<value>That was only a problem one time. And then maybe a few times after that, but hey, no reason to dwell on the past, right?</value>
+		<value>Đó là vấn đề của quá khứ rồi. Và hình như cũng là vấn đề của một vài lần sau đó nữa, nhưng mà này, sao mình cứ phải bới lại chuyện cũ làm gì, nhỉ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer15Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</key>
-		<value>Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</value>
+		<value>Dù sao thì nhóc vẫn sẽ cần đi lấy &lt;color=orange&gt;mã khởi động từ Hornfels ở đài thiên văn&lt;/color&gt; mới có thể khởi hành. Cứ thong thả đi chào tạm biệt mọi người xong rồi hãy quay lại đây.</value>
 	</entry>
 	<entry>
 		<key>Scientist2Not having second thoughts, are you?</key>
-		<value>Not having second thoughts, are you?</value>
+		<value>Có đang chần chừ gì nữa không đấy?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2Where are the launch codes again?</key>
-		<value>Where are the launch codes again?</value>
+		<value>Cháu phải tìm mã khởi động ở đâu nhỉ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2How’s the ship looking?</key>
-		<value>How’s the ship looking?</value>
+		<value>Phi thuyền của cháu trông ổn chứ ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2How safe would you say this thing is?</key>
-		<value>How safe would you say this thing is?</value>
+		<value>Bác đánh giá thứ này an toàn đến mức nào ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2What’s my mission once I’m in space?</key>
-		<value>What’s my mission once I’m in space?</value>
+		<value>Nhiệm vụ của cháu khi ra ngoài không gian là gì nhỉ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2What else should I do before liftoff?</key>
-		<value>What else should I do before liftoff?</value>
+		<value>Còn việc gì cháu nên làm trước khi khởi hành không ạ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Hey, you’re the pilot - you tell me. Aren’t you pilot-types all eager to get up there and explore for yourselves?</key>
-		<value>Hey, you’re the pilot - you tell me. Aren’t you pilot-types all eager to get up there and explore for yourselves?</value>
+		<value>Ơ này, nhóc là phi hành gia cơ mà - nhóc mới là người phải kể điều này với ta chứ. Ta tưởng nhóc rất hào hứng được lên vũ trụ để tự mình khám phá nhỉ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Doesn’t matter if you go to the moon or Brittle Hollow or just the other side of Timber Hearth. It’s all the same to me. Get out there and have fun!</key>
-		<value>Doesn’t matter if you go to the moon or Brittle Hollow or just the other side of Timber Hearth. It’s all the same to me. Get out there and have fun!</value>
+		<value>Nhóc có lên mặt trăng, hay Brittle Hollow, hay chỉ là phía bên kia của Timber Hearth cũng không quan trọng. Đối với ta thì đi đâu cũng như nhau cả. Cứ việc đi và trải nghiệm thôi!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Just don’t hurt the ship, that’s all I ask.</key>
-		<value>Just don’t hurt the ship, that’s all I ask.</value>
+		<value>Đừng phá hỏng phi thuyền là được, ta chỉ yêu cầu có vậy.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer25If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</key>
-		<value>If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</value>
+		<value>Nhóc còn muốn nói lời tạm biệt với ai thì nên đi gặp họ ngay đi. Hình như cậu Hal bạn thân của nhóc đang ở trong đài thiên văn để chứng kiến khoảnh khắc nhóc khởi hành đấy.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-		<value>Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</value>
+		<value>À, Gossan có nhắn rằng lão đã chuẩn bị sẵn buồng không trọng lực để nhóc luyện tập cho tình huống sửa phi thuyền trong không gian. Thực ra không &lt;i&gt;phải&lt;/i&gt; việc của nhóc đâu, nhưng mà, nhóc làm hộ thì Gossan sẽ không dí ta nữa.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
-		<value>Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</value>
+		<value>Hornfels đang giữ mã khởi động. Chắc đang ở đài thiên văn như mọi khi. Nhiều lúc ta còn tưởng ổng sống luôn ở đó rồi.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer22Great! Hey, you might get a kick out of this - I’ve repurposed the spare oxygen tank to be used as an extra combustion chamber!</key>
-		<value>Great! Hey, you might get a kick out of this - I’ve repurposed the spare oxygen tank to be used as an extra combustion chamber!</value>
+		<value>Ổn cực luôn! À, chắc nhóc sẽ thích điều này đấy - ta đã tận dụng cái bình dưỡng khí còn thừa để làm thêm một buồng đốt!</value>
 	</entry>
 	<entry>
 		<key>SlateScientistAnswer22What does that do?</key>
-		<value>What does that do?</value>
+		<value>Làm thế thì có tác dụng gì ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientistAnswer22Is that... safe?</key>
-		<value>Is that... safe?</value>
+		<value>Liệu có... an toàn không?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer221Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it. \\nIsn’t that &lt;i&gt;great&lt;/i&gt;?</key>
-		<value>Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it. \\nIsn’t that &lt;i&gt;great&lt;/i&gt;?</value>
+		<value>À thì, làm vậy cũng chỉ mang tính thử nghiệm thôi, nhưng đại khái nó giống việc ta gắn thêm một tên lửa to và khỏe hơn vào bệ phóng tầng hai vậy. \\nChẳng phải rất &lt;i&gt;tuyệt&lt;/i&gt; sao?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer222Probably!</key>
-		<value>Probably!</value>
+		<value>Chắc là có!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer23Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.\\nNo offense.</key>
-		<value>Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.\\nNo offense.</value>
+		<value>Ố, điểm mười tuyệt đối luôn. Trừ khi ta tính thêm lỗi của phi công, lúc ấy thì chỉ còn khoảng bốn điểm.\\nKhông có ý xúc phạm nhóc đâu nhé.</value>
 	</entry>
 	<entry>
 		<key>Scientist3Oh, hold up, you’re going to want to get the launch codes from the observatory first.</key>
-		<value>Oh, hold up, you’re going to want to get the launch codes from the observatory first.</value>
+		<value>Ủa, khoan đã, nhóc sẽ cần lấy mã khởi động tại đài thiên văn trước đấy.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3I already got them from the observatory, remember?</key>
-		<value>I already got them from the observatory, remember?</value>
+		<value>Cháu lấy mật mã ở đài thiên văn rồi mà, bác không nhớ ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3How did I get back here? Didn’t I already lift off?</key>
-		<value>How did I get back here? Didn’t I already lift off?</value>
+		<value>Sao cháu quay lại đây được nhỉ? Chẳng phải là cháu đã khởi hành rồi mà?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3Wait, did I just &lt;i&gt;die&lt;/i&gt;, or...?</key>
-		<value>Wait, did I just &lt;i&gt;die&lt;/i&gt;, or...?</value>
+		<value>Khoan, cháu vừa mới &lt;i&gt;chết&lt;/i&gt; ư, hay là...?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer31Huh. Must be inhaling more fumes than I realized. That stuff is &lt;i&gt;potent&lt;/i&gt;.</key>
-		<value>Huh. Must be inhaling more fumes than I realized. That stuff is &lt;i&gt;potent&lt;/i&gt;.</value>
+		<value>Hử. Vậy chắc là do ta hít phải quá nhiều khói rồi. Thứ này &lt;i&gt;hại người&lt;/i&gt; thật.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer31Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!</key>
-		<value>Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!</value>
+		<value>Nhóc đã có mật mã rồi thì sao ta cản được nữa. Chúc nhóc may mắn, và nhớ chăm sóc phi thuyền cho cẩn thận đấy!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer32Trust me -- with the modifications I’ve made to those rockets? There’s no way I would have missed that.</key>
-		<value>Trust me -- with the modifications I’ve made to those rockets? There’s no way I would have missed that.</value>
+		<value>Tin ta -- ta vừa mới lắp đặt cả đống cải tiến vào cụm tên lửa xong. Làm gì có chuyện nhóc lái nó bay đi mà ta lại không biết?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer32I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</value>
+		<value>Ta sẽ không hỏi nhóc lấy được mã khởi động từ chỗ nào đâu, nhưng nhóc có mật mã rồi thì cứ việc đi nhé! Ta cũng đang muốn xem cái khoang lái mới lắp có bị rụng ra khi khởi hành hay không.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer33Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</key>
-		<value>Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</value>
+		<value>Ừmm, &lt;i&gt;không&lt;/i&gt;...? Nhóc gặp ác mộng hay gì à?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer33I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</value>
+		<value>Ta sẽ không hỏi nhóc lấy được mật mã ở đâu ra đâu, nên liệu mà đi nhanh trước khi Hornfels bắt nhóc phải ở lại để kiểm tra sức khỏe. Ta cũng đang muốn xem cái khoang lái mới lắp có bị rụng ra khi khởi hành hay không.</value>
 	</entry>
 	<entry>
 		<key>Scientist4Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</key>
-		<value>Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</value>
+		<value>Có vẻ nhóc đã sẵn sàng để khởi hành rồi đấy! Sự phấn khích trước mỗi lần phóng hay thật đấy, nhưng ta cũng nóng lòng được quay lại xây dựng tiếp mẫu phi thuyền mới ghê.\\nỞ phiên bản mới này bọn ta đang sửa lỗi hệ thống tránh vật cản của chức năng tự động lái!</value>
 	</entry>
 	<entry>
 		<key>Scientist4...Uh, sorry.</key>
-		<value>...Uh, sorry.</value>
+		<value>...Ối, xin lỗi.</value>
 	</entry>
 	<entry>
 		<key>Scientist5There’s our pilot! Ready to get this beauty off the ground?</key>
@@ -2848,162 +2848,162 @@
 	</entry>
 	<entry>
 		<key>Scientist5Hey, what can I do you for?</key>
-		<value>Hey, what can I do you for?</value>
+		<value>Ta giúp gì được cho nhóc nào?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5You know the ship is a death-trap, right?</key>
-		<value>You know the ship is a death-trap, right?</value>
+		<value>Bác biết phi thuyền này là một cái bẫy chết người, phải không?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5You’re lucky I’m in a time loop, because otherwise I’d be super dead.</key>
-		<value>You’re lucky I’m in a time loop, because otherwise I’d be super dead.</value>
+		<value>May cho bác là cháu đang kẹt trong một vòng lặp thời gian đấy, không thì cháu đi đời từ lâu rồi.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5The autopilot flew my ship directly into the sun!</key>
-		<value>The autopilot flew my ship directly into the sun!</value>
+		<value>Chức năng tự động lái đưa phi thuyền của cháu đâm thẳng vào mặt trời!</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5I keep getting killed by ghost matter.</key>
-		<value>I keep getting killed by ghost matter.</value>
+		<value>Cháu cứ chết liên tục vì dính phải vật chất ma.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5The sun is going to go supernova, by the way.</key>
-		<value>The sun is going to go supernova, by the way.</value>
+		<value>Mặt trời sắp phát nổ siêu tân tinh rồi ạ.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5Did you know it’s just an endless void outside our solar system?</key>
-		<value>Did you know it’s just an endless void outside our solar system?</value>
+		<value>Bác có biết bên ngoài hệ mặt trời của chúng ta chỉ toàn là hư vô thăm thẳm không?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer35Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</key>
-		<value>Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</value>
+		<value>À thì, nó đúng là một cái bẫy chết người thật, nhưng là một cái bẫy chết người &lt;i&gt;công suất cực lớn&lt;/i&gt;. Gì đấy, sao &lt;i&gt;đột nhiên&lt;/i&gt; nhóc lại quan tâm về vấn đề an toàn nhỉ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer36And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</key>
-		<value>And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</value>
+		<value>Và may cho nhóc là ta không bắt nhóc ở lại để kiểm tra sức khỏe đấy, vì ta chẳng biết nhóc đang lảm nhảm cái gì luôn.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37Had an exciting dream, did you?</key>
-		<value>Had an exciting dream, did you?</value>
+		<value>Giấc mơ thú vị đấy chứ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37It’s not exactly &lt;i&gt;impossible&lt;/i&gt; for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose.</key>
-		<value>It’s not exactly &lt;i&gt;impossible&lt;/i&gt; for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose.</value>
+		<value>Việc chức năng tự động lái đưa nhóc tới quá gần mặt trời không hẳn là &lt;i&gt;bất khả thi&lt;/i&gt;, nhưng cũng không phải là nó cố tình đưa nhóc thẳng tới đó đâu.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine.</key>
-		<value>Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine.</value>
+		<value>Chỉ cần đảm bảo mặt trời không nằm giữa nhóc và điểm đến khi khởi động chức năng tự động lái là nhóc sẽ ổn.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer38Use your scout to detect it, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</key>
-		<value>Not if you use your scout to detect it, you won’t, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</value>
+		<value>Nhóc mà biết dùng thiết bị do thám của mình để dò thì sẽ không phải chết đâu, thằng ngốc này! Nhóc nghĩ ta làm ra thứ đó chỉ để cho nhóc chụp ảnh mấy cái cây à? Nó có nhiều chức năng lắm chứ!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer38You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</key>
-		<value>You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</value>
+		<value>Nhóc &lt;i&gt;biết&lt;/i&gt; rằng mình có thể dùng thiết bị do thám để thắp sáng nữa, phải không? Ôi những ngôi sao trên trời ơi, làm ơn nói với ta là nhóc biết đi.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Oh yeah, the observatory has an exhibit about that.</key>
-		<value>Oh yeah, the observatory has an exhibit about that.</value>
+		<value>À phải, trong đài thiên văn có một khu triển lãm về vụ đó.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Between you and me, I glossed over some of the finer details. Astrophysics is really more Hornfels’s domain.</key>
-		<value>Between you and me, I glossed over some of the finer details. Astrophysics is really more Hornfels’s domain.</value>
+		<value>Chỉ nói cho nhóc biết thôi nhé, là ta bỏ qua hết mấy chi tiết vụn vặt kiểu này. Vật lý thiên văn là chuyên môn của Hornfels cơ.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Me, I’m here for the rocket science and the marshmallows.</key>
-		<value>Me, I’m here for the rocket science and the marshmallows.</value>
+		<value>Còn ta, ta ở đây để nghiên cứu tên lửa và ăn kẹo dẻo.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer40Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</key>
-		<value>Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</value>
+		<value>Phải phải, ta mà là nhóc, thì ta sẽ chỉ loanh quanh khám phá bên trong hệ mặt trời này thôi. Ta ghét phải thừa nhận điều này thật, nhưng các phi thuyền chúng ta xây dựng được đều không dành cho khám phá không gian xa.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_IntroHey, hold up a sec!</key>
-		<value>Hey, hold up a sec!</value>
+		<value>Này, khoan đã!</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_IntroYeah yeah yeah, I already know about the launch codes.</key>
-		<value>Yeah yeah yeah, I already know about the launch codes.</value>
+		<value>Vâng vâng vâng, cháu biết mã khởi động rồi ạ.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</key>
-		<value>What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</value>
+		<value>Hả? À không, ta định bảo nhóc về việc sử dụng nhật trình của phi thuyền để đánh dấu điểm đến cho những nơi mà nhóc đã từng tới cơ.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
-		<value>It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</value>
+		<value>Tính năng thiên tài đấy, đến mức ta cũng phải tự khen luôn. Cực kỳ hữu dụng. Và rủi ro gây hỏng van điều áp nhiên liệu khiến phi thuyền nổ tung lại nhỏ li ti đến mức chỉ có lão Gossan thấy ngại thôi.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Wait, so how do I use it?</key>
-		<value>Wait, so how do I use it?</value>
+		<value>Woa, vậy sử dụng nó như thế nào ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Use the ship log to mark a location I want to revisit. Got it.</key>
-		<value>Use the ship log to mark a location I want to revisit. Got it.</value>
+		<value>Dùng nhật trình phi thuyền để đánh dấu địa điểm cháu muốn quay lại. Đã rõ ạ.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1How minimal are we talking?</key>
-		<value>How minimal are we talking?</value>
+		<value>Rủi ro nhỏ tới mức nào ạ?</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1What about locations I haven’t visited before?</key>
-		<value>What about locations I haven’t visited before?</value>
+		<value>Thế còn những địa điểm cháu chưa từng tới bao giờ thì sao ạ?</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1aWhen you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</key>
-		<value>When you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</value>
+		<value>Khi nhóc ở trên phi thuyền thì mở bảng nhật trình lên và chọn địa điểm nhóc muốn đánh dấu. Chọn đâu cũng được, miễn là nhóc đã từng tới đó.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1aHop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</key>
-		<value>Hop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</value>
+		<value>Lúc đó nhóc chỉ việc ngồi vào ghế lái, và phi thuyền sẽ tự chỉ cho nhóc vị trí của điểm đến trên màn hình hiển thị. Dễ như vậy thôi.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1bMinimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</key>
-		<value>Minimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</value>
+		<value>Nhỏ li ti! Ôi những ngôi sao trên trời ơi, sao nhóc phải lo lắng nhiều thế nhỉ? Nếu phi thuyền có trục trặc gì khiến nhóc phải bỏ mạng, thì đó là chức năng tự động lái.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1cOh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</key>
-		<value>Oh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</value>
+		<value>Ồ, được luôn, ta sẽ phù phép cho hệ thống tự biết hết tất cả mọi điểm đến trong toàn hệ mặt trời này cho nhóc tha hồ khám phá, nhé?</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</key>
-		<value>“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</value>
+		<value>“Wow, bác Slate đỉnh thật đấy! Sao bác lại có thể nghĩ ra những ý tưởng thiên tài như vậy?” Ồ không, ta chỉ làm tốt nhất trong khả năng của mình thôi. Nhóc lại quá khen rồi.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2Slate, you are a technological marvel.</key>
-		<value>Slate, you are a technological marvel.</value>
+		<value>Slate, bác quả là một thiên tài công nghệ.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2This was extraordinarily convenient timing. Thanks!</key>
-		<value>This was extraordinarily convenient timing. Thanks!</value>
+		<value>Bác nói hộ cháu đúng lúc cháu định nói luôn đấy. Cảm ơn bác nhé!</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2That’s not what my voice sounds like.</key>
-		<value>That’s not what my voice sounds like.</value>
+		<value>Giọng cháu nghe có như vậy đâu.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2a...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</key>
-		<value>...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</value>
+		<value>...Whoa, nói lại lần nữa đi! Làm ơn đấy? Được nghe câu đó không lẫn chút mỉa mai nào đã tai thật sự.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2bSure thing, hatchling!</key>
-		<value>Sure thing, hatchling!</value>
+		<value>Không có chi, nhóc con!</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2cEveryone’s a critic.</key>
-		<value>Everyone’s a critic.</value>
+		<value>Nhóc đòi thế thì sao ta chiều được.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_3Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</key>
-		<value>Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</value>
+		<value>Thôi xùy xùy, ta có đống lửa này phải chăm, còn nhóc thì cần đi lấy mã khởi động. Tha hồ mà nghịch hệ thống đánh dấu khi nhóc ở ngoài không gian nhé. Nhưng mà, ừm, nhớ đừng có cắm đầu bay thẳng theo địa điểm đánh dấu để tông phải vào mặt trời đấy, nhé?</value>
 	</entry>
 	<entry>
 		<key>
 			WARNING: Increased solar activity detected.
 		</key>
 		<value>
-			WARNING: Increased solar activity detected.
+			CẢNH BÁO: Phát hiện bức xạ mặt trời tăng cường.
 		</value>
 	</entry>
 	<entry>
@@ -3011,7 +3011,7 @@
 			WARNING: Increased volcanic activity detected.
 		</key>
 		<value>
-			WARNING: Increased volcanic activity detected.
+			CẢNH BÁO: Phát hiện hoạt động núi lửa tăng cường.
 		</value>
 	</entry>
 	<entry>
@@ -3019,7 +3019,7 @@
 			VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
 		<value>
-			VERDICT: Location is now inhospitable. Evacuation recommended.
+			CHẨN ĐOÁN: Địa điểm không còn thuận lợi để sinh sống. Đề nghị sơ tán.
 		</value>
 	</entry>
 	<entry>
@@ -3027,7 +3027,7 @@
 			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
-			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
+			LỖI: Không xác định được quỹ đạo. Không tìm thấy tín hiệu có tính chất trùng khớp với Con Mắt Vũ Trụ.
 		</value>
 	</entry>
 	<entry>
@@ -3040,51 +3040,51 @@
 	</entry>
 	<entry>
 		<key>Feldspar1Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</key>
-		<value>Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</value>
+		<value>Nhóc tới từ đâu vậy? Đã lâu rồi chưa có ai tới đây cả... à, chưa có một ai từng đến đây luôn. Nghĩa là nhóc là người Hearthian thứ hai tới được Dark Bramble đấy — sau ta, tất nhiên rồi. Chúc mừng nhé!</value>
 	</entry>
 	<entry>
 		<key>Feldspar1...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</key>
-		<value>...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</value>
+		<value>...Ra là nhóc! Họ cho nhóc làm phi hành gia chính thức rồi ư? Và nhóc vẫn chưa bỏ mạng trong một vụ nổ nào cả, tuyệt vời lắm!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-		<value>Let me guess: anglerfish?</value>
+		<value>Để cháu đoán nhé: cá cần câu?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Feldspar! You’re alive!</key>
-		<value>Feldspar! You’re alive!</value>
+		<value>Feldspar! Bác còn sống!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1We all thought you were dead for sure.</key>
-		<value>We all thought you were dead for sure.</value>
+		<value>Mọi người đều tưởng bác đã chết rồi.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Have you been here in Dark Bramble all this time?</key>
-		<value>Have you been here in Dark Bramble all this time?</value>
+		<value>Bác đã luôn ở trong Dark Bramble suốt thời gian qua ư?</value>
 	</entry>
 	<entry>
 		<key>Feldspar2...You never were the brightest hatchling, were you.</key>
-		<value>...You never were the brightest hatchling, were you.</value>
+		<value>...Hóa ra nhóc cũng không thông minh lắm nhỉ.</value>
 	</entry>
 	<entry>
 		<key>Feldspar2Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</key>
-		<value>Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</value>
+		<value>Phải, đúng vậy đấy, ta còn sống. Ta đã cắm trại ở đây từ lúc phi thuyền của ta, ờm, nhóc cũng đoán được đấy. Gặp tai nạn.&lt;Pause&gt; Nát bét.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2Wait, what?</key>
-		<value>Wait, what?</value>
+		<value>Hả, bác nói gì cơ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</key>
-		<value>You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</value>
+		<value>Bác &lt;i&gt;tông nát phi thuyền của mình rồi ư&lt;/i&gt;? Nhưng bác là phi hành gia vĩ đại nhất trong lịch sử Hearthian cơ mà!</value>
 	</entry>
 	<entry>
 		<key>Feldspar2aI haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</key>
-		<value>I haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</value>
+		<value>Cũng đã lâu rồi ta không sống trong xã hội văn minh, nên ta sẽ cho rằng câu đó không phải là mỉa mai và bỏ qua.</value>
 	</entry>
 	<entry>
 		<key>Feldspar3What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</key>
-		<value>What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</value>
+		<value>Gì cơ? Ta, mà lại bị giết bởi một thứ thực vật đầy gai nhọn, phá vỡ các quy luật không thời gian, hay là vài con cá săn mồi đói bụng có răng nanh cực sắc á? Chưa phải cái mạng này đâu, nhóc con à.</value>
 	</entry>
 	<entry>
 		<key>Feldspar3I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</key>
@@ -9790,15 +9790,15 @@
 	</entry>
 	<entry>
 		<key>ThisPlanetHaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>Haha, tôi cũng thấy hành tinh này bị làm sao thật?</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...À, ý cậu hỏi là muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Xem nào, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanetThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>Ở dưới nước có một dòng hải lưu mạnh đến mức cản không cho bất cứ thứ gì chìm qua nó. Thật luôn, tôi đã thử mọi cách mình nghĩ ra để vượt qua dòng nước ấy, nhưng chẳng cách nào hiệu quả cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanetAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -9906,15 +9906,15 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FHaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>Haha, tôi cũng thấy hành tinh này bị làm sao thật?</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...À, ý cậu hỏi là muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Xem nào, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>Ở dưới nước có một dòng hải lưu mạnh đến mức cản không cho bất cứ thứ gì chìm qua nó. Thật luôn, tôi đã thử mọi cách mình nghĩ ra để vượt qua dòng nước ấy, nhưng chẳng cách nào hiệu quả cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -10014,15 +10014,15 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2THaha, I know, right?</key>
-		<value>Haha, I know, right?</value>
+		<value>Haha, tôi cũng thấy hành tinh này bị làm sao thật?</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</value>
+		<value>...À, ý cậu hỏi là muốn nghe tôi kể thêm về nó chứ gì? Như ý luôn. Xem nào, Giant’s Deep là một hành tinh khổng lồ, chứa toàn nước là nước. Không có gì đáng ngạc nhiên cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>There’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</value>
+		<value>Ở dưới nước có một dòng hải lưu mạnh đến mức cản không cho bất cứ thứ gì chìm qua nó. Thật luôn, tôi đã thử mọi cách mình nghĩ ra để vượt qua dòng nước ấy, nhưng chẳng cách nào hiệu quả cả.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
