@@ -12,7 +12,11 @@ namespace OuterWildsVietnamese
         [HarmonyPatch(typeof(PlayerData), nameof(PlayerData.Init))]
         private static void PlayerData_Init(SettingsSave settingsData)
         {
-            //settingsData.language = OuterWildsVietnamese.vietnamese;
+            LanguageSaveFile save = OuterWildsVietnamese.Load();
+            if (save != null && !string.IsNullOrWhiteSpace(save.language))
+            {
+                settingsData.language = OuterWildsVietnamese.vietnamese;
+            }
         }
 
         /// Avoid save breaking
@@ -58,7 +62,7 @@ namespace OuterWildsVietnamese
         [HarmonyPatch(typeof(SettingsSave), nameof(SettingsSave.GetLanguageStrings))]
         private static void SettingsSave_GetLanguageStrings(ref string[] __result)
         {
-            Array.Resize(ref __result, (int)OuterWildsVietnamese.vietnamese + 1);
+            Array.Resize(ref __result, (int)TextTranslation.Language.TOTAL + 2);
             __result[(int)TextTranslation.Language.TOTAL] = "Total";
             __result[(int)OuterWildsVietnamese.vietnamese] = "Tiếng Việt";
         }

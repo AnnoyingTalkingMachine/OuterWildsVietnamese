@@ -22,7 +22,8 @@ namespace OuterWildsVietnamese
         {
             if (OuterWildsVietnamese.IsVanillaLanguage(lang)) return true;
 
-            ___m_language = lang;
+            //Luminescence090823: This very line of code is causing the error. Trying to figure out what this does.
+            //___m_language = lang;
             ___m_table = null;
 
             try

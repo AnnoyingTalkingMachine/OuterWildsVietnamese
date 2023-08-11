@@ -41,7 +41,7 @@ namespace OuterWildsVietnamese
 
         private void Start()
         {
-            vietnamese = TextTranslation.Language.TOTAL + 1;
+            vietnamese = vanillaLanguages.Max() + 1;
             translationPath = self.ModHelper.Manifest.ModFolderPath + "assets/VietnameseTranslation.xml";
             languageToReplace = TextTranslation.Language.ENGLISH;
 
@@ -53,7 +53,6 @@ namespace OuterWildsVietnamese
                 mainMenuFont = bundle.LoadAsset<Font>("Assets/Rowdies-Light.ttf");
                 creditsFont = bundle.LoadAsset<Font>("Assets/JosefinSans-Regular.ttf");
                 bundle.Unload(true);
-                Log("Fonts loaded successfully.");
             }
             catch (Exception e)
             {
