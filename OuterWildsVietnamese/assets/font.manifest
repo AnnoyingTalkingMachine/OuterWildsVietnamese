@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3187006282
+CRC: 4117240468
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b66196f3a1abe7b2ff027cc836318b82
+    Hash: e1218212cf008b016bd7e1870aa7a902
   TypeTreeHash:
     serializedVersion: 2
     Hash: cea17de082da1dfd38b5ed053fc34ca1
@@ -19,8 +19,14 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/SpaceMono-Regular.ttf
+- Assets/SignikaNegative-SemiBold.ttf
 - Assets/JosefinSans-Regular.ttf
+- Assets/YanoneKaffeesatz-Regular.ttf
 - Assets/Rowdies-Light.ttf
+- Assets/Prompt-Medium.ttf
 - Assets/MerriweatherSans-SemiBold.ttf
 - Assets/ChakraPetch-Medium.ttf
+- Assets/Prompt-Regular.ttf
+- Assets/Dosis-Regular.ttf
 Dependencies: []

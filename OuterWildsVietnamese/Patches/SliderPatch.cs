@@ -81,6 +81,7 @@ namespace OuterWildsVietnamese
                     __instance._value = (int)TextTranslation.Language.TOTAL;
                 }
             }
+
         }
 
         public class LanguageSaveFile
